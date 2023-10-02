@@ -24,7 +24,7 @@ define( 'DB_NAME', 'wpv2' );
 
 /** MySQL database username */
 define( 'DB_USER', 'wpuser' );
-/** Developer WordPress credentials: basecodelabsdev / 0p3nr00t6Y*uU 
+
 /** MySQL database password */
 define( 'DB_PASSWORD', 'M8n&b^v5c$x3z' );
 
